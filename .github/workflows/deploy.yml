@@ -17,7 +17,7 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd jhaemin/jhaemin.com-next
+            cd apps/jhaemin.com
             git reset --hard
             git checkout main
             git pull --rebase
