@@ -95,20 +95,17 @@ const Home: Page = () => {
 
           <div>
             <div className={s['section-item']}>
-              <p className={s['section-item-title']}>Woowa Brothers Corp.</p>
-              <p className={s['section-item-description']}>2020 – current</p>
-            </div>
-
-            <div className={s['section-item']}>
-              <p className={s['section-item-title']}>Woowahan Tech Camp 3rd</p>
-              <p className={s['section-item-description']}>Summer 2020</p>
-            </div>
-
-            <div className={s['section-item']}>
-              <p className={s['section-item-title']}>
-                Carmore (TeamO2) Internship
+              <p className={s['section-item-title']}>TwelveLabs Inc.</p>
+              <p className={s['section-item-description']}>
+                2026. 02. – current
               </p>
-              <p className={s['section-item-description']}>Summer 2019</p>
+            </div>
+
+            <div className={s['section-item']}>
+              <p className={s['section-item-title']}>Woowa Brothers Corp.</p>
+              <p className={s['section-item-description']}>
+                2020. 10. – 2026. 02.
+              </p>
             </div>
           </div>
         </section>
